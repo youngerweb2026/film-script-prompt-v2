@@ -1,0 +1,13 @@
+请帮我实际安装 GitHub 上的「影视脚本提示词2.0」（film-script-prompt-v2）Skill。
+
+仓库：https://github.com/youngerweb2026/film-script-prompt-v2
+Skill 目录：skills/film-script-prompt-v2
+直达：https://github.com/youngerweb2026/film-script-prompt-v2/tree/main/skills/film-script-prompt-v2
+
+请先读取仓库说明和技能内容，识别当前操作系统与本 Agent 实际支持的用户级 Skills 安装目录，优先使用原生 Skill 安装器。如果你是 Codex，使用 Skill Installer，仓库参数为 youngerweb2026/film-script-prompt-v2，路径参数为 skills/film-script-prompt-v2。如果原生安装器不可用或缺少 Python，请根据当前环境自动改用 Git、macOS/Linux 的 curl/unzip 或 Windows PowerShell 下载，不要仅因缺少 Python 就停止。
+
+完整安装 skills/film-script-prompt-v2 目录及其全部文件，技能文件夹名保持 film-script-prompt-v2；保留 SKILL.md、agents/openai.yaml 和 references/ 下的 model-notes.md、task-patterns.md、examples.md，不要只复制 SKILL.md。
+
+如果已有同名 Skill，先比较：内容相同则保留，内容不同则备份后更新，只改动这个 Skill，不影响其他技能。安装后核对来源、文件完整性及相对引用，并检查本 Agent 是否能识别。告诉我实际安装位置、调用方法及何时生效、是否需要重新加载；如果当前环境不支持自定义 Skills 或不能实际安装，请如实说明，不要把阅读技能当作安装完成。
+
+只执行安装，不启动剧本创作、提示词编写、素材上传或视频生成。调用方法：使用 $film-script-prompt-v2，按四段结构整理我的影视脚本提示词。

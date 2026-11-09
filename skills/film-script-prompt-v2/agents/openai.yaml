@@ -1,0 +1,4 @@
+interface:
+  display_name: "影视脚本提示词2.0"
+  short_description: "将剧本与分镜整理为四段中文视频提示词，统一素材、风格、声音与生成时长"
+  default_prompt: "使用 $film-script-prompt-v2，将我的影视脚本、分镜或镜头想法整理为 Seedance 2.5 中文视频提示词。"
